@@ -7,6 +7,7 @@
 
   [![GitHub Stars](https://img.shields.io/github/stars/ExploitWorks?style=flat&logo=github&label=Stars&color=F4BB41)](https://github.com/ExploitWorks)
   [![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-181717?style=flat&logo=github)](https://github.com/ExploitWorks)
+  [![CEO](https://img.shields.io/badge/CEO-Jonas_Resch-blue?style=flat&logo=github)](https://github.com/reschjonas)
   [![Contact](https://img.shields.io/badge/Contact-contact--exploitworks%40pm.me-blueviolet?style=flat&logo=protonmail)](mailto:contact-exploitworks@pm.me)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 </div>
