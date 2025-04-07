@@ -22,34 +22,34 @@ ExploitWorks is an organization dedicated to developing high-quality open-source
       <td align="center" width="33%">
         <h3>🔍 EscalateX</h3>
         <p>Advanced Linux privilege escalation scanner with system configuration analysis, privilege abuse detection, and kernel exploit identification.</p>
-        <a href="placeholder until repo is created">View Project</a>
+        <a href="https://github.com/ExploitWorks/EscalateX.git">View Project</a>
       </td>
       <td align="center" width="33%">
         <h3>🧹 LogWipe</h3>
         <p>Comprehensive log management tool for cleaning system logs and generating realistic fake logs to maintain system integrity.</p>
-        <a href="placeholder until repo is created">View Project</a>
+        <a href="https://github.com/ExploitWorks/LogWipe.git">View Project</a>
       </td>
       <td align="center" width="33%">
         <h3>🕵️ TaskThief</h3>
         <p>Security testing tool for scheduled tasks and cron jobs, identifying privilege escalation vectors in task schedulers.</p>
-        <a href="placeholder until repo is created">View Project</a>
+        <a href="https://github.com/ExploitWorks/TaskThief.git">View Project</a>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <h3>🌊 DesyncDiver</h3>
         <p>Active HTTP Request Smuggling vulnerability scanner for detecting parsing inconsistencies between front-end and back-end servers.</p>
-        <a href="placeholder until repo is created">View Project</a>
+        <a href="https://github.com/ExploitWorks/DesyncDiver.git">View Project</a>
       </td>
       <td align="center" width="33%">
         <h3>📦 HTTPipe</h3>
         <p>Cross-platform GUI tool for quick file transfers over HTTP, designed for penetration testing scenarios with encoding utilities.</p>
-        <a href="placeholder until repo is created">View Project</a>
+        <a href="https://github.com/ExploitWorks/HTTPipe.git">View Project</a>
       </td>
       <td align="center" width="33%">
         <h3>🔒 QuantHide</h3>
         <p>A quantum-resistant steganography tool that hides messages in images using post-quantum cryptography.</p>
-        <a href="placeholder until repo is created">View Project</a>
+        <a href="https://github.com/ExploitWorks/QuantHide.git">View Project</a>
       </td>
     </tr>
   </table>
