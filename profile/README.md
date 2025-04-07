@@ -1,7 +1,7 @@
 <!-- EXPLOITWORKS README -->
 
 <div align="center">
-  <img src="FullLogo.png" alt="ExploitWorks Logo" width="650" height="300">
+  <img src="../FullLogo.png" alt="ExploitWorks Logo" width="650" height="300">
   <h1>ExploitWorks</h1>
   <p><i>Advanced Security Tools for Ethical Hackers and Security Professionals</i></p>
   
